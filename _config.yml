@@ -1,5 +1,5 @@
 # Site settings
-title: BY Blog
+title: 罗田 Blog
 SEOTitle: 罗田的博客 | BY Blog
 header-img: img/post-bg-desk.jpg
 email: han_wenm@163.com
@@ -18,8 +18,8 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 
 # SNS settings
 RSS: false
-github_username:    HUkiah
-jianshu_username:   4bcd1370d2cb
+github_username: HUkiah
+jianshu_username: 4bcd1370d2cb
 
 
 
@@ -101,6 +101,5 @@ friends: [
     {
         title: "简书·李李哈哈哈",
         href: "http://www.jianshu.com/u/b8af228c5d8a"
-    },
-    
+    }
 ]
