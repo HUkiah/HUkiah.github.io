@@ -19,7 +19,7 @@ tags:
 
 为了使宿主机能够被局域网中的其他主机访问，链接方式上使用的是**仅主机(Host-Only)网络** 。
 
-![Host-Only](../img/HostOnly-config.jpg)
+![Host-Only](https://segmentfault.com/img/bVblKQM)
 
 界面名称选择的是虚拟出来的网卡,在实现与宿主机“同起同坐”的目标前提 也会使我们的虚拟机能够访问网络，虚拟出来的网卡并不能上网，毕竟我们的宿主机只是普通的PC，我知道两种解决方法：
 
